@@ -112,6 +112,7 @@ def check() :
 
 	else :
 		print 'error input'
+		print 'usage: python checkipa.py XXX.ipa'
 		return False
 
 
